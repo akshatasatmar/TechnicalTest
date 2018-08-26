@@ -1,0 +1,56 @@
+.navbar {
+            padding: 0px !important;
+        }
+
+        .nav-link {
+            font-size: medium !important;
+            font-weight: bold !important;
+            color: darkblue !important;
+        }
+
+        .navbar-toggler-icon {
+            width: 1em !important;
+            height: 1em !important;
+        }
+
+        .dotborder {
+            border-right: dotted;
+            border-width: thin;
+        }
+
+        .thumb-card {
+            margin-bottom: 1em;
+        }
+
+        .footer-card {
+            background: #222;
+        }
+
+        .dummy-row {
+            padding: 1em;
+        }
+
+        .footer-social li {
+            display: inline;
+            padding: 0.5em;
+        }
+
+        .footer-card ul {
+            list-style-type: none;
+            /*float: left;*/
+            text-align: left;
+            margin: 0em !important;
+            padding: 0em !important;
+        }
+
+            .footer-card ul li {
+                list-style-type: none;
+                /*float: left;*/
+                text-align: left;
+                margin: 0em !important;
+            }
+
+        .footer-card li a, h5, label {
+            color: white !important;
+            font-size: 0.8em;
+        }
